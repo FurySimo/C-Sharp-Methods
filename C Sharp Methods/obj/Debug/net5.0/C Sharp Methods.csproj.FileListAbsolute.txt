@@ -1,0 +1,16 @@
+D:\Important Documents\GitHub Codes\C#\C Sharp Methods\bin\Debug\net5.0\C Sharp Methods.exe
+D:\Important Documents\GitHub Codes\C#\C Sharp Methods\bin\Debug\net5.0\C Sharp Methods.deps.json
+D:\Important Documents\GitHub Codes\C#\C Sharp Methods\bin\Debug\net5.0\C Sharp Methods.runtimeconfig.json
+D:\Important Documents\GitHub Codes\C#\C Sharp Methods\bin\Debug\net5.0\C Sharp Methods.runtimeconfig.dev.json
+D:\Important Documents\GitHub Codes\C#\C Sharp Methods\bin\Debug\net5.0\C Sharp Methods.dll
+D:\Important Documents\GitHub Codes\C#\C Sharp Methods\bin\Debug\net5.0\ref\C Sharp Methods.dll
+D:\Important Documents\GitHub Codes\C#\C Sharp Methods\bin\Debug\net5.0\C Sharp Methods.pdb
+D:\Important Documents\GitHub Codes\C#\C Sharp Methods\obj\Debug\net5.0\C Sharp Methods.csprojAssemblyReference.cache
+D:\Important Documents\GitHub Codes\C#\C Sharp Methods\obj\Debug\net5.0\C Sharp Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Important Documents\GitHub Codes\C#\C Sharp Methods\obj\Debug\net5.0\C Sharp Methods.AssemblyInfoInputs.cache
+D:\Important Documents\GitHub Codes\C#\C Sharp Methods\obj\Debug\net5.0\C Sharp Methods.AssemblyInfo.cs
+D:\Important Documents\GitHub Codes\C#\C Sharp Methods\obj\Debug\net5.0\C Sharp Methods.csproj.CoreCompileInputs.cache
+D:\Important Documents\GitHub Codes\C#\C Sharp Methods\obj\Debug\net5.0\C Sharp Methods.dll
+D:\Important Documents\GitHub Codes\C#\C Sharp Methods\obj\Debug\net5.0\ref\C Sharp Methods.dll
+D:\Important Documents\GitHub Codes\C#\C Sharp Methods\obj\Debug\net5.0\C Sharp Methods.pdb
+D:\Important Documents\GitHub Codes\C#\C Sharp Methods\obj\Debug\net5.0\C Sharp Methods.genruntimeconfig.cache
